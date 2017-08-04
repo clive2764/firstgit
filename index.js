@@ -8,5 +8,5 @@ function arrBtn(){
 
 function objBtn(){
     objBtn["name"]="kim";
-    console.log(obj);
+    console.log(objBtn);
 }
